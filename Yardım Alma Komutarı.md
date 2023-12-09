@@ -6,4 +6,6 @@ Linux sistemlerinde çok güçlü bir yardım alma sistemi vardır. Komutsatır�
 
 `help` komutunu `ls` komutunun kullanımıyla ilgi bilgi almak için `ls --help` şeklinde kullanabiliriz.
 
-!
+![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-help.png?raw=true)
+
+Bu şekilde yardım alına bildiği gibi `help <komut>` şkelinde de yardım alınabilir.
