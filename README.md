@@ -5,7 +5,6 @@
   * help
   * man
   * whatis
-  * apropos
 
 ### 2- Bilgi Alma komutları
 
