@@ -18,7 +18,7 @@
 
 eğer 2012 yılının üçüncü ayını görmek istiyorsak `cal 3 2012` yazmalıyız.
 
-![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-cal2.png?raw=true)
+![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-cal-2.png?raw=true)
 
 # date 
 
