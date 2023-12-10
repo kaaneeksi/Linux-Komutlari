@@ -21,3 +21,9 @@ Bu şekilde yardım alına bildiği gibi `help <komut>` şkelinde de yardım al�
 * **SEE ALSO:** İlgili başlıklar.
 
  ![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-man.png?raw=true)
+
+## whatis
+
+`whatis <komut>` daha kısa ve öz bize komutun ne işe yaradığını gösteren bir komut.
+
+ ![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-whatis.png?raw=true)
