@@ -9,7 +9,6 @@
 ### 2- Bilgi Alma komutları
 
   * lsb-release
-  * etc/issue
   * uname
   * cal
   * date
