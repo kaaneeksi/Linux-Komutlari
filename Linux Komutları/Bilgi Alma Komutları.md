@@ -80,5 +80,5 @@ Eğer ki son komutumuzu tekrardan kullanmak istersek `!!` yapmamız yeter.
 
 ![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-history-3.png?raw=true)
 
-_Bu komutun kullanmak yerine ok tuşlarından aşşağı ve yukarı ya basarak son kodlarınız arasında daha rahat ve pratik işlem yapabilirsiniz_
+_Not: Bu komutu kullanmak yerine ok tuşlarından aşşağı ve yukarı ya basarak son kodlarınız arasında daha rahat ve pratik işlem yapabilirsiniz_
 
