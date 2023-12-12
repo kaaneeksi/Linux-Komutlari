@@ -62,3 +62,23 @@ _bu komut işlevsiz gibi gözüksede siber güvenlikte yetki yükseltme aşamas�
 
 ![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-which.png?raw=true)
 
+# locate
+
+`locate` komutu ile aradığımız bir doysanın hangi dizin veya dizinler altına olduğunu bulabiliriz.
+
+# history
+
+terminalde kullandığımız komutlar **.bash_history** dosyasına kayıt edilir. `history` komutunu kullanarak son kullanılan komutları görebilir ve kısa yollar ile onları kullanabiliriz.
+
+![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-history.png?raw=true)
+
+örneğin onuncu satırda yazan **nmap** kodunu tekrar kullanmak istersek `!10` yazmamız yeterli olucaktır.
+
+![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-history-2.png?raw=true)
+
+Eğer ki son komutumuzu tekrardan kullanmak istersek `!!` yapmamız yeter.  
+
+![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-history-3.png?raw=true)
+
+_Bu komutun kullanmak yerine ok tuşlarından aşşağı ve yukarı ya basarak son kodlarınız arasında daha rahat ve pratik işlem yapabilirsiniz_
+
