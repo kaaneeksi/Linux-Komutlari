@@ -41,3 +41,20 @@ Eğer `echo k*` gibi bir komut yazarsak bize k harfi ile başlayan dosyları gö
 
 ![echo](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-echo-3.png)
 
+# grep 
+
+`grep <parametre> <aranacak-kelime> <dosya-adı>` komutu **metin dosylarının** içerisinde arama yapmaya yarayan bir koddur.
+
+![echo](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-grep.png)
+
+`grep -i`  grep komutunun küçük-büyük harf duyarlılığı vardır. Eğer bunu istemiyorsak bu parametreyi kullanabiliriz.
+
+![echo](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-grep-i.png)
+
+`grep -v <istenmeyen-harf>` -a parametresi ile istemediğimiz harfi barıncıran kelimeleri listelemez.
+
+![echo](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-grep-v.png)
+
+`grep -n` -n parametresi ile istenilen kelimeler satır numarası ile yazılır.
+
+![echo](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-grep-n.png)
