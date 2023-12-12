@@ -23,3 +23,21 @@
 Eğer **">>" yerine ">"** ile dosyanın içine yazı yazarsak kayıt edilmiş verileri sileriz.
 
 ![cat](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-cat-3.png)
+
+# echo
+Bu komutun bir kaç farklı kullanım alanı vardır.
+
+`echo` komutu yazılan bir ifadenin ekrana terminal üzerinden çıktısını verir.
+
+![echo](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-echo.png)
+
+`echo "<yazılacak-ifade>"  >  <içine-yazdığımız-dosya>` komutu ilede bir doysanın içini açmadan uzaktan içine yazı eklememize yarar.
+
+![echo](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-echo-2.png)
+
+`echo *` ile `ls` komutunda yaptığmız gibi içinde bulunduğumuz konumun içindeki dosyaları bize gösterir 
+
+Eğer `echo k*` gibi bir komut yazarsak bize k harfi ile başlayan dosyları göstericekdir `echo t* ` yazarsakta t ile başlayan dosyaları gösterir.
+
+![echo](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-echo-3.png)
+
