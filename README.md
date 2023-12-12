@@ -18,16 +18,6 @@
   * whereis
   * which
   * locate
-  * dmidecode
-  * proc
-  * fdisk -l
-  * df
-  * du
-  * free
-  * hdpram
-  * modinfo
-  * stat
-  * vmstat
   * history
 
 ### 3- Dizinler ve Klasörler Arasında Gezme ve Listeleme
