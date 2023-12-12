@@ -32,22 +32,7 @@
   * touch
   * cat
   * echo
-  * more
-  * less
-  * head - tail
-  * tee
-  * tac
-  * rev
-  * sort
-  * wc
-  * nl
-  * pr
-  * paste
-  * grep
-  * cut
-  * tr
-  * cmp
-  * diff
+  * grep 
   * find
-  * exec
-  * xargs
+   * exec
+   * xargs
