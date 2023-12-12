@@ -1,10 +1,10 @@
-# pwd
+## pwd
 
  `pwd` hangi dizinde olduğumuzu öğrenmek için kullandığımız bir komut.
  
 ![help-img1](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-pwd.png?raw=true)
 
-# cd
+## cd
 
 `cd` ingilizce açılımından anlayabileceğimiz bir komut (change directory), dizinler arasında ileri geri hareket etmemize olanak sağlayan bir kod.
 
