@@ -33,6 +33,4 @@
   * cat
   * echo
   * grep 
-  * find
-   * exec
-   * xargs
+  * find ( Detay Ver )
