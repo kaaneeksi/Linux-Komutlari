@@ -58,3 +58,20 @@ Eğer `echo k*` gibi bir komut yazarsak bize k harfi ile başlayan dosyları gö
 `grep -n` -n parametresi ile istenilen kelimeler satır numarası ile yazılır.
 
 ![echo](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-grep-n.png)
+
+# find
+
+Zaman zaman adının yalnızca bir kısmını bildiğimiz ama bulunduğu dizini bir türlü hatırlayamadığımız dosyalar ve dizinler olur. Bu dosyaları bulmak için `find` komutunu kullanırız.
+
+`find <dosya-yolu> -name <arancak-ifade>` şeklinde kullanılır. 
+
+![find](https://github.com/kaaneeksi/Linux-Komutlari/blob/main/G%C3%B6rseller/Linux-komut-find.png)
+
+
+
+
+
+
+
+
+
