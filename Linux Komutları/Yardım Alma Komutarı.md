@@ -14,6 +14,8 @@ Bu şekilde yardım alına bildiği gibi `help <komut>` şkelinde de yardım al�
 
 `man <komut>` şeklinde kullanılır. Bize komut hakkında bir dökümantasyon sunar ve yapısı şu şekildedir.
 
+`/arancak-ifade` şeklinde man sayfasında aradığınız kelimeyi bulabilirsiniz
+
 * **NAME:** Komutun ismi ve açıklaması.
 * **SYNOPSIS:** Komutun nasıl kullanılacağı.
 * **DESCRIPTION:** Komutun fonksiyonu hakkında açıklama.
